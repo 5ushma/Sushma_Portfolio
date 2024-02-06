@@ -181,8 +181,8 @@ export default function Projects() {
                 title="Fashion Studio Website"
                 summary="Fashion is the armour to survive the reality of everyday life. A fashion studio website with smooth animations and using React, Tailwind CSS, Context API."
                 img={proj3}
-                link="http://localhost:3000/"
-                github="http://localhost:3000/"
+                link="https://sushmachiluvuri.netlify.app"
+                github="https://sushmachiluvuri.netlify.app"
               
               />
             </div> 
