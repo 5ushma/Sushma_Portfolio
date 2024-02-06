@@ -18,9 +18,8 @@ export default function Home() {
         <title>Sushma Chiluvuri Portfolio </title>
         <meta
           name="description"
-          content="Explore CodeBucks's Next.js developer portfolio and 
-        discover the latest webapp projects and software engineering articles. 
-        Showcase your skills as a full-stack developer and software engineer."
+          content="Explore Sushma's portfolio and 
+        discover the latest skills as a full-stack developer and software engineer."
         />
       </Head>
 
