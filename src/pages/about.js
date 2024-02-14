@@ -97,8 +97,8 @@ export default function About() {
               priority
               />
             </div>
-            <div className="flex flex-col items-center justify-center mb-8 xl:items-center">
-  <span className="inline-block text-5xl font-bold md:text-4xl sm:text-3xl xs:text-xl">
+            <div className="flex flex-col items-center justify-center mb-12 xl:mb-0">
+  <span className="inline-block text-5xl font-bold md:text-4xl sm:text-3xl xs:text-2xl">
     <AnimatedNumberFramerMotion value={2} />
   </span>
   <h3 className="text-xl font-medium capitalize text-dark/75 dark:text-light/75 
@@ -106,7 +106,7 @@ export default function About() {
     projects completed
   </h3>
 </div>
-<div className="flex flex-col items-center justify-center xl:items-center">
+<div className="flex flex-col items-center justify-center">
   <span className="inline-block text-5xl font-bold md:text-4xl sm:text-3xl xs:text-xl">
     <AnimatedNumberFramerMotion value={2} />
   </span>
