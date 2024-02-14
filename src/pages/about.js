@@ -97,21 +97,19 @@ export default function About() {
               priority
               />
             </div>
-            <div className="flex flex-col items-center justify-center py-6 min-h-[10rem] xl:min-h-0">
+            <div className="flex flex-col items-center justify-center space-y-4">
   <span className="inline-block text-5xl font-bold md:text-4xl sm:text-3xl xs:text-2xl">
-    <AnimatedNumberFramerMotion value={2} />
+    <AnimatedNumberFramerMotion value={5} />
   </span>
-  <h3 className="text-xl font-medium capitalize text-dark/75 dark:text-light/75 
-      xl:text-center md:text-lg sm:text-base xs:text-sm mt-2">
+  <h3 className="text-xl font-medium capitalize">
     projects completed
   </h3>
 </div>
 <div className="flex flex-col items-center justify-center py-6 min-h-[10rem] xl:min-h-0">
   <span className="inline-block text-5xl font-bold md:text-4xl sm:text-3xl xs:text-2xl">
-    <AnimatedNumberFramerMotion value={2} />
+    <AnimatedNumberFramerMotion value={3} />
   </span>
-  <h3 className="text-xl font-medium capitalize text-dark/75 dark:text-light/75 
-      xl:text-center md:text-lg sm:text-base xs:text-sm mt-2">
+  <h3 className="text-xl font-medium capitalize">
     Years of experience
                 </h3>
               </div>
