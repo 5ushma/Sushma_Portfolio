@@ -61,7 +61,7 @@ export default function About() {
               </h2>
               <p className="font-medium ">
                 Hi, I&apos;m <strong>Sushma Chiluvuri</strong>, a web developer with a passion for creating beautiful,
-                functional, and user-centered digital experiences. With 2 years
+                functional, and user-centered digital experiences. With 3 years
                 of experience in the field. I am always looking for new and
                 innovative ways to bring my visions to life.
               </p>
