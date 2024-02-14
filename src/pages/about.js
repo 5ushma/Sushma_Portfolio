@@ -57,7 +57,7 @@ export default function About() {
             <div className="col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 
             md:col-span-8">
               <h2 className="mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75">
-                BIOGRAPHY
+              Unwrapping My Exclusive Expedition
               </h2>
               <p className="font-medium ">
                 Hi, I&apos;m <strong>Sushma Chiluvuri</strong>, a web developer with a passion for creating beautiful,
