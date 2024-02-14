@@ -18,7 +18,7 @@ export default function Home() {
         <title>Sushma Chiluvuri Portfolio </title>
         <meta
           name="description"
-          content="Explore Sushma's portfolio and 
+          content="Explore Sushma's portfolio and
         discover the latest skills as a full-stack developer and software engineer."
         />
       </Head>

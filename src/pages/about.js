@@ -98,19 +98,19 @@ export default function About() {
               />
             </div>
             <div className="flex flex-col items-end justify-center xl:items-center">
-                <span className="inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl">
+                <span className="inline-block text-5xl font-bold md:text-4xl sm:text-3xl xs:text-2xl">
                   <AnimatedNumberFramerMotion value={2} />
                 </span>
-                <h3 className="mb-4 text-xl font-medium capitalize text-dark/75 dark:text-light/75 
+                <h3 className="mb-4 text-xl font-small capitalize text-dark/75 dark:text-light/75 
                 xl:text-center md:text-lg sm:text-base xs:text-sm">
                   projects completed
                 </h3>
               </div>
               <div className="flex flex-col items-end justify-center xl:items-center">
-                <span className="inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl">
+                <span className="inline-block text-5xl font-bold md:text-4xl sm:text-3xl xs:text-2xl">
                   <AnimatedNumberFramerMotion value={2}  />
                 </span>
-                <h3 className="mb-4 text-xl font-medium capitalize text-dark/75 dark:text-light/75 
+                <h3 className="mb-4 text-xl font-small capitalize text-dark/75 dark:text-light/75 
                 xl:text-center md:text-lg sm:text-base xs:text-sm">
                   Years of experience
                 </h3>
