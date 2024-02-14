@@ -94,11 +94,11 @@ export default function About() {
                 sizes="(max-width: 768px) 100vw,
               (max-width: 1200px) 50vw,
               33vw"
-                priority
+              priority
               />
             </div>
-            <div className="flex flex-col items-center justify-center xl:items-center mb-4">
-  <span className="inline-block text-5xl font-bold md:text-4xl sm:text-3xl xs:text-2xl">
+            <div className="flex flex-col items-center justify-center mb-8 xl:items-center">
+  <span className="inline-block text-5xl font-bold md:text-4xl sm:text-3xl xs:text-xl">
     <AnimatedNumberFramerMotion value={2} />
   </span>
   <h3 className="text-xl font-medium capitalize text-dark/75 dark:text-light/75 
@@ -106,8 +106,8 @@ export default function About() {
     projects completed
   </h3>
 </div>
-<div className="flex flex-col items-center justify-center xl:items-center mt-4">
-  <span className="inline-block text-5xl font-bold md:text-4xl sm:text-3xl xs:text-2xl">
+<div className="flex flex-col items-center justify-center xl:items-center">
+  <span className="inline-block text-5xl font-bold md:text-4xl sm:text-3xl xs:text-xl">
     <AnimatedNumberFramerMotion value={2} />
   </span>
   <h3 className="text-xl font-medium capitalize text-dark/75 dark:text-light/75 
