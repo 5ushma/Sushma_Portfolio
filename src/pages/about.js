@@ -97,22 +97,22 @@ export default function About() {
                 priority
               />
             </div>
-            <div className="flex flex-col items-end justify-center xl:items-center">
-                <span className="inline-block text-5xl font-bold md:text-4xl sm:text-3xl xs:text-2xl">
-                  <AnimatedNumberFramerMotion value={2} />
-                </span>
-                <h3 className="mb-4 text-xl font-small capitalize text-dark/75 dark:text-light/75 
-                xl:text-center md:text-lg sm:text-base xs:text-sm">
-                  projects completed
-                </h3>
-              </div>
-              <div className="flex flex-col items-end justify-center xl:items-center">
-                <span className="inline-block text-5xl font-bold md:text-4xl sm:text-3xl xs:text-2xl">
-                  <AnimatedNumberFramerMotion value={2}  />
-                </span>
-                <h3 className="mb-4 text-xl font-small capitalize text-dark/75 dark:text-light/75 
-                xl:text-center md:text-lg sm:text-base xs:text-sm">
-                  Years of experience
+            <div className="flex flex-col items-center justify-center xl:items-center">
+  <span className="inline-block text-5xl font-bold md:text-4xl sm:text-3xl xs:text-2xl">
+    <AnimatedNumberFramerMotion value={2} />
+  </span>
+  <h3 className="text-xl font-medium capitalize text-dark/75 dark:text-light/75 
+      xl:text-center md:text-lg sm:text-base xs:text-sm">
+    projects completed
+  </h3>
+</div>
+<div className="flex flex-col items-center justify-center xl:items-center">
+  <span className="inline-block text-5xl font-bold md:text-4xl sm:text-3xl xs:text-2xl">
+    <AnimatedNumberFramerMotion value={2} />
+  </span>
+  <h3 className="text-xl font-medium capitalize text-dark/75 dark:text-light/75 
+      xl:text-center md:text-lg sm:text-base xs:text-sm">
+    Years of experience
                 </h3>
               </div>
             </div>
