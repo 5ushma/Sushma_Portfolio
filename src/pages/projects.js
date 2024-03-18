@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 import Head from "next/head";
 import Image from "next/image";
 import Link from "next/link";
-import proj3 from "../../public/images/projects/fashion-studio-website.jpg";
+import proj3 from "../../public/images/projects/stylehub.jpeg";
 
 const FramerImage = motion(Image);
 
