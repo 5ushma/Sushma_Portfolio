@@ -181,8 +181,8 @@ export default function Projects() {
                 title="Style Hub"
                 summary="Fashion is the armour to survive the reality of everyday life. A fashion studio website with smooth animations and using React, Tailwind CSS, Context API."
                 img={proj3}
-                link="https://sushmachiluvuri.netlify.app"
-                github="https://github.com/5ushma"
+                link="https://sushmastylehub.netlify.app"
+                github="https://github.com/5ushma/StyleHub"
               
               />
             </div>
