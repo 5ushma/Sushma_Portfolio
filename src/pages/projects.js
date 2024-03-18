@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 import Head from "next/head";
 import Image from "next/image";
 import Link from "next/link";
-import proj3 from "../../public/images/projects/stylehub.jpeg";
+import proj3 from "../../public/images/projects/stylehub.jpg";
 
 const FramerImage = motion(Image);
 
@@ -178,7 +178,7 @@ export default function Projects() {
             <div className="col-span-12">
               <FeaturedProject
                 type="Featured Website"
-                title="Fashion Studio Website"
+                title="Style Hub"
                 summary="Fashion is the armour to survive the reality of everyday life. A fashion studio website with smooth animations and using React, Tailwind CSS, Context API."
                 img={proj3}
                 link="https://sushmachiluvuri.netlify.app"
